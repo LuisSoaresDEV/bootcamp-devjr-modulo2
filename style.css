@@ -61,7 +61,7 @@ body{
 
     background-color:#009e9e;
     width: 50%;
-    padding: 20px;
+    padding: 10px 20px;
     color: #ffffff;
     
 }
@@ -103,3 +103,8 @@ body{
 
 
 }
+
+
+ .img-group{
+    text-align: center;
+ }
